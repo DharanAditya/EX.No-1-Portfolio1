@@ -201,3 +201,8 @@ h2 {
     color: #000000; /* black sub-headings */
 }
 ```
+## OUTPUT
+
+![Screenshot 2025-04-30 102923](https://github.com/user-attachments/assets/acb6ed2f-7e0c-4e5e-a331-0fe29e779860)
+
+![Screenshot 2025-04-30 102939](https://github.com/user-attachments/assets/64f0ce83-e0f7-4811-a661-054b99b570aa)
